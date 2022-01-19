@@ -18,7 +18,7 @@ Este é o backend da aplicação Hamburgueria 2.0 - Uma database fake do Json-Se
 
 A API tem um total de 6 endpoints, sendo relacionados ao usuário e seu carrinho de compras - cadastrar-se, logar-se, adicionar produtos à "cesta", atualizar quantidade de produtos na "cesta", remover produtos da "cesta".<br/>
 
-O url base da API é https://hamburgueira_2_0.herokuapp.com
+O url base da API é https://hamburgueira-2-0.herokuapp.com
 
 ## Rotas que não precisam de autenticação
 
