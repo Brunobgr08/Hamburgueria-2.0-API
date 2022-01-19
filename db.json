@@ -1,174 +1,250 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "bruno@teste.com",
+      "password": "$2a$10$84OeoBd/X3unFArpijzIKOpAUCx4dyijng/SYjSN9lJeeydINEoPe",
+      "first_name": "Bruno",
+      "last_name": "Guedes Rodrigues",
+      "age": 33,
+      "phone_number": "31999979217",
+      "zip_code": "32310370",
+      "address": "acácias 1860 eldorado",
+      "complement": "ap304",
+      "city": "contagem",
+      "state": "minas gerais",
+      "id": 1
+    },
+    {
+      "email": "bruno2@teste.com",
+      "password": "$2a$10$UvmeZ9187djc4RyOWnE/xel8pNOM5SGCXurXsS10blsvjiZlMBFay",
+      "first_name": "Bruno",
+      "last_name": "Guedes Rodrigues",
+      "age": 33,
+      "phone_number": "31999979217",
+      "zip_code": "32310370",
+      "address": "acácias 1860 eldorado",
+      "complement": "ap304",
+      "city": "contagem",
+      "state": "minas gerais",
+      "id": 2
+    },
+    {
+      "email": "bruno3@teste.com",
+      "password": "$2a$10$qydlhZA3r4XvLA4A1AzIZ.SeqVG8uqPCL2QeqxvSIWp5C20mtHkk.",
+      "first_name": "Bruno",
+      "last_name": "Guedes Rodrigues",
+      "age": 33,
+      "phone_number": "31999979217",
+      "zip_code": "32310370",
+      "address": "acácias 1860 eldorado",
+      "complement": "ap304",
+      "city": "contagem",
+      "state": "minas gerais",
+      "id": 3
+    }
+  ],
   "products": [
     {
       "id": "1",
       "name": "Big Kenzie",
       "category": "Sanduíches",
-      "price": 18.0,
-      "image": "product01.svg"
+      "price": 18,
+      "image": "product01"
     },
     {
       "id": "2",
       "name": "X-Burguer",
       "category": "Sanduíches",
-      "price": 16.0,
-      "image": "product02.svg"
+      "price": 16,
+      "image": "product02"
     },
     {
       "id": "3",
       "name": "Chicken Cheddar",
       "category": "Sanduíches",
-      "price": 14.0,
-      "image": "product03.svg"
+      "price": 14,
+      "image": "product03"
     },
     {
       "id": "4",
       "name": "Duplo Cheddar Melt",
       "category": "Sanduíches",
-      "price": 18.0,
-      "image": "product04.svg"
+      "price": 18,
+      "image": "product04"
     },
     {
       "id": "5",
       "name": "Duplo Burguer Bacon",
       "category": "Sanduíches",
-      "price": 16.0,
-      "image": "product05.svg"
+      "price": 16,
+      "image": "product05"
     },
     {
       "id": "6",
       "name": "Duplo Barbecue",
       "category": "Sanduíches",
-      "price": 16.0,
-      "image": "product06.svg"
+      "price": 16,
+      "image": "product06"
     },
     {
       "id": "7",
       "name": "Cheeseburger",
       "category": "Sanduíches",
-      "price": 12.0,
-      "image": "product07.svg"
+      "price": 12,
+      "image": "product07"
     },
     {
       "id": "8",
       "name": "Hamburger",
       "category": "Sanduíches",
-      "price": 12.0,
-      "image": "product08.svg"
+      "price": 12,
+      "image": "product08"
     },
     {
       "id": "9",
       "name": "Combo Kenzie 1",
       "category": "Combos",
-      "price": 26.0,
-      "image": "product09.svg"
+      "price": 26,
+      "image": "product09"
     },
     {
       "id": "10",
       "name": "Combo Kenzie 2",
       "category": "Combos",
-      "price": 32.0,
-      "image": "product10.svg"
+      "price": 32,
+      "image": "product10"
     },
     {
       "id": "11",
       "name": "Combo Kenzie Casal",
       "category": "Combos",
-      "price": 48.0,
-      "image": "product11.svg"
+      "price": 48,
+      "image": "product11"
     },
     {
       "id": "12",
       "name": "Combo Kenzie Família",
       "category": "Combos",
-      "price": 62.0,
-      "image": "product12.svg"
+      "price": 62,
+      "image": "product12"
     },
     {
       "id": "13",
       "name": "Fanta Guaraná",
       "category": "Bebidas",
-      "price": 5.0,
-      "image": "product13.svg"
+      "price": 5,
+      "image": "product13"
     },
     {
       "id": "14",
       "name": "Coca Cola",
       "category": "Bebidas",
-      "price": 7.0,
-      "image": "product14.svg"
+      "price": 7,
+      "image": "product14"
     },
     {
       "id": "15",
       "name": "Suco Uva Maguary",
       "category": "Bebidas",
-      "price": 7.0,
-      "image": "product15.svg"
+      "price": 7,
+      "image": "product15"
     },
     {
       "id": "16",
       "name": "Água Mineral",
       "category": "Bebidas",
       "price": 2.5,
-      "image": "product16.svg"
+      "image": "product16"
     },
     {
       "id": "17",
       "name": "McShake Ovomaltine",
       "category": "Sobremesas",
-      "price": 10.0,
-      "image": "product17.svg"
+      "price": 10,
+      "image": "product17"
     },
     {
       "id": "18",
       "name": "McShake Morango",
       "category": "Sobremesas",
-      "price": 10.0,
-      "image": "product18.svg"
+      "price": 10,
+      "image": "product18"
     },
     {
       "id": "19",
       "name": "Sunday Misto",
       "category": "Sobremesas",
-      "price": 8.0,
-      "image": "product19.svg"
+      "price": 8,
+      "image": "product19"
     },
     {
       "id": "20",
       "name": "Casquinha Mista",
       "category": "Sobremesas",
-      "price": 5.0,
-      "image": "product20.svg"
+      "price": 5,
+      "image": "product20"
     },
     {
       "id": "21",
       "name": "Batata Frita Pequena",
       "category": "Acompanhamentos",
-      "price": 5.0,
-      "image": "product21.svg"
+      "price": 5,
+      "image": "product21"
     },
     {
       "id": "22",
       "name": "Batata Frita Média",
       "category": "Acompanhamentos",
-      "price": 8.0,
-      "image": "product22.svg"
+      "price": 8,
+      "image": "product22"
     },
     {
       "id": "23",
       "name": "Batata Frita Grande",
       "category": "Acompanhamentos",
-      "price": 14.0,
-      "image": "product23.svg"
+      "price": 14,
+      "image": "product23"
     },
     {
       "id": "24",
       "name": "Nuggets 10 unidades",
       "category": "Acompanhamentos",
-      "price": 8.0,
-      "image": "product24.svg"
+      "price": 8,
+      "image": "product24"
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "time": "2022-01-07 12:35:21",
+      "userId": 1,
+      "amount": 41,
+      "products": [
+        {
+          "productId": "1",
+          "name": "Big Kenzie",
+          "category": "Sanduíches",
+          "price": 18,
+          "image": "product01",
+          "quantity": "1"
+        },
+        {
+          "productId": "15",
+          "name": "Suco Uva Maguary",
+          "category": "Bebidas",
+          "price": 7,
+          "image": "product15",
+          "quantity": "1"
+        },
+        {
+          "productId": "22",
+          "name": "Batata Frita Média",
+          "category": "Acompanhamentos",
+          "price": 8,
+          "image": "product22",
+          "quantity": "2"
+        }
+      ],
+      "id": 1
+    }
+  ]
 }
