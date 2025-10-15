@@ -1,7 +1,20 @@
 {
+  "name": "hamburgueria-json-server-api",
+  "version": "2.0.0",
+  "description": "JSON Server API for Burger shop application",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "json-server --watch db.json --port 3001",
+    "server": "node server.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^0.16.3",
     "json-server-auth": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
