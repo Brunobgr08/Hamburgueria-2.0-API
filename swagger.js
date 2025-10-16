@@ -10,7 +10,7 @@ const options = {
         'API de uma hamburgueria fake com JSON Server. Usuários podem se cadastrar, fazer login e gerenciar seu carrinho de compras.',
       contact: {
         name: 'Bruno BGR',
-        url: 'https://github.com/brunobgr',
+        url: 'https://github.com/Brunobgr08',
       },
     },
     servers: [
