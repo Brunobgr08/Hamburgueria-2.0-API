@@ -12,7 +12,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^0.16.3",
-    "json-server-auth": "^2.1.0"
+    "json-server-auth": "^2.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   },
   "engines": {
     "node": ">=14.0.0"
